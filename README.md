@@ -46,72 +46,14 @@ Credit-Card-Approval-Prediction-System/
 │
 |
 ├── 1. INTRODUCTION
-│   ├── Problem Statement
-│   ├── Project Overview
-│   ├── Objectives
-│   └── Scope of the Project
-│
-|
 ├── 2. IDEATION PHASE
-│   ├── Brainstorming
-│   ├── Literature Survey
-│   ├── Empathy Map
-│   ├── Problem Statement
-│   └── Solution Proposal
-│
-|
 ├── 3. REQUIREMENT ANALYSIS
-│   ├── Functional Requirements
-│   ├── Non-Functional Requirements
-│   ├── Software Requirements
-│   └── Hardware Requirements
-│
-|
 ├── 4. PROJECT DESIGN
-│   ├── System Architecture
-│   ├── UML Diagrams
-│   ├── ER Diagram
-│   ├── Database Design
-│   └── Workflow Diagram
-│
-|
 ├── 5. PROJECT PLANNING & SCHEDULING
-│   ├── Project Planning
-│   ├── Milestones
-│   ├── Timeline
-│   └── Task Scheduling
-│
-|
 ├── 6. PROJECT DEVELOPMENT PHASE
-│   ├── Dataset
-│   ├── Data Preprocessing
-│   ├── Exploratory Data Analysis
-│   ├── Feature Engineering
-│   ├── Model Training
-│   ├── Model Evaluation
-│   ├── Prediction Module
-│   └── Source Code
-│
-|
 ├── 7. PROJECT TESTING
-│   ├── Test Cases
-│   ├── Test Results
-│   ├── Validation
-│   └── Performance Analysis
-│
-|
 ├── 8. PROJECT DOCUMENTATION
-│   ├── Project Report
-│   ├── User Manual
-│   ├── Technical Documentation
-│   └── Presentation
-│
-|
 └── 9. PROJECT DEMONSTRATION
-    ├── Demo Video
-    ├── Screenshots
-    └── Final Presentation
-
 
 ---
 
